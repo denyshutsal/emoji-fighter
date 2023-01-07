@@ -1,0 +1,23 @@
+{
+  "name": "emoji-fighter",
+  "homepage": "https://denyshutsal.github.io/emoji-fighter",
+  "version": "1.0.0",
+  "description": "simple emoji fighter game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denyshutsal/emoji-fighter.git"
+  },
+  "author": "Denys Hutsal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denyshutsal/emoji-fighter/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
